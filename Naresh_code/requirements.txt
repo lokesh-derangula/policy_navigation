@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+pillow
+numpy
+requests
+easyocr
+pytesseract
+pdfplumber
+python-docx
